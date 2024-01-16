@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">معاك</string>
+    <string name="morning">صباح الخير</string>
+    <string name="help">اختر الخدمة المناسبة</string>
+    <string name="help2">وسنقوم بمساعدتك فورًا !</string>
+    <string name="kta">خدمة خُطى</string>
+    <string name="details1">معاك بكل خطاويك ، رجلنا على رجلك!</string>
+    <string name="call">الإتصال السريع بالطوارئ</string>
+    <string name="dalilk">خدمة دليلك</string>
+    <string name="details2">انت اطلب! واحنا ندلك لأفضل الأماكن</string>
+</resources>
